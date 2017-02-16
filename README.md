@@ -4,6 +4,8 @@ Yazılım elinizde olan eposta ve varsayılan şifresini,diğer sosyal platforml
 
 pip install website
 
+unzip credmaptr.zip
+
 chmod +x ./credmap.py
 
 Örnek Kullanım
